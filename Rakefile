@@ -18,7 +18,7 @@ Jeweler::Tasks.new do |gem|
   gem.homepage = "http://github.com/Leventhan/profano"
   gem.license = "MIT"
   gem.summary = %Q{Ruby profanity filter}
-  gem.description = %Q{Profano lets you filter and replace blacklisted words in your active record models, complete with i18n support.}
+  gem.description = %Q{Profano lets you filter and replace blacklisted words in your active record models, complete   with i18n support.}
   gem.email = "yosriady@gmail.com"
   gem.authors = ["Yos Riady"]
   # dependencies defined in Gemfile

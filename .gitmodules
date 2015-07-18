@@ -1,0 +1,3 @@
+[submodule "lib/locale"]
+	path = lib/locale
+	url = git@github.com:shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words.git
